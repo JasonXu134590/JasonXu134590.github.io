@@ -1,16 +1,7 @@
 ---
 title: 测试文章
-date: 2023-12-27 12:55:00
+date: 2023-12-27 12:55:00 +0800
 categories: [测试]
 tags: [test]     # TAG names should always be lowercase
 ---
-<author_id>:
-  name: <JasonXu>
-  twitter: <jasonxu134590>
-  url: <https://jasonxu134590.github.io>
-
-
-
-
-
-122134
+# Test.
